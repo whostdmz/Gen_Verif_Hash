@@ -17,4 +17,4 @@ A simple Python tool with a graphical interface for generating and verifying pas
 
 ## Installation
 
-1. Clone this repository: 
+1. Clone this repository: https://github.com/whostdmz/Gen_Verif_Hash
